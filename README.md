@@ -4,7 +4,7 @@
 one page portfolio marketing site for 
 [Selda Celen-Demirtas, PH.D., PLLC - Licensed Psychologist](https://drseldacelendemirtas.derinworksllc.com)
 created by [Derin Works LLC](https://www.derinworksllc.com) 
-created from a [Start Bootstrap](http://startbootstrap.com) template.
+from a [Start Bootstrap](http://startbootstrap.com) template.
 
 ## Download and Installation
 
